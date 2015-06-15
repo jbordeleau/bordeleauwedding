@@ -7,8 +7,8 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>css/bootstrap.min.css">
 
 	<!-- Optional theme -->
-	<!-- <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css"> -->
-
+	<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/cerulean/bootstrap.min.css" rel="stylesheet">
+	
 	<!-- Page styles -->
 	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>css/style.css">
 	
