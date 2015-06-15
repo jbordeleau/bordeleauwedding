@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteRule ^rsvp/$ /rsvp/rsvp.php
+RewriteRule ^rsvp/([a-z]+)/$ /rsvp/rsvp.php?status=$1
+RewriteRule ^accommodations/$ /accommodations/accommodations.php
+RewriteRule ^location/$ /location/location.php
+RewriteRule ^menu/$ /menu/menu.php
+RewriteRule ^party/$ /party/party.php
+RewriteRule ^photos/$ /photos/photos.php
+RewriteRule ^songs/$ /songs/songs.php
+RewriteRule ^songs/([a-z]+)/$ /songs/songs.php?status=$1
+RewriteRule ^registry/$ /registry/registry.php

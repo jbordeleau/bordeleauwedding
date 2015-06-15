@@ -1,0 +1,32 @@
+[15-Nov-2014 06:19:54 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/eventsha/public_html/bordeleauwedding/bootstrap/index.php on line 3
+[17-Nov-2014 18:56:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/eventsha/public_html/bordeleauwedding/rsvp.php on line 17
+[17-Nov-2014 18:56:59 America/Chicago] PHP Fatal error:  Call to undefined function query() in /home/eventsha/public_html/bordeleauwedding/rsvp.php on line 17
+[22-Nov-2014 20:27:29 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 37
+[24-Nov-2014 18:33:36 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/eventsha/public_html/bordeleauwedding/index.php on line 3
+[24-Nov-2014 18:34:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/eventsha/public_html/bordeleauwedding/index.php on line 3
+[24-Nov-2014 18:35:13 America/Chicago] PHP Warning:  require_once(/home/eventsha/public_html/bordeleauweddinginc/config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/eventsha/public_html/bordeleauwedding/index.php on line 2
+[24-Nov-2014 18:35:13 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/eventsha/public_html/bordeleauweddinginc/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eventsha/public_html/bordeleauwedding/index.php on line 2
+[24-Nov-2014 18:36:08 America/Chicago] PHP Warning:  include(/home/eventsha/public_html/bordeleauwedding/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eventsha/public_html/bordeleauwedding/index.php on line 18
+[24-Nov-2014 18:36:08 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/eventsha/public_html/bordeleauwedding/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eventsha/public_html/bordeleauwedding/index.php on line 18
+[24-Nov-2014 18:43:41 America/Chicago] PHP Warning:  require_once(/home/eventsha/public_html/inc/config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/eventsha/public_html/bordeleauwedding/index.php on line 2
+[24-Nov-2014 18:43:41 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/eventsha/public_html/inc/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eventsha/public_html/bordeleauwedding/index.php on line 2
+[27-Nov-2014 15:03:52 America/Chicago] PHP Warning:  require_once(/home/eventsha/public_html/bordeleauwedding/bordeleauwedding/inc/config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/eventsha/public_html/bordeleauwedding/index.php on line 2
+[27-Nov-2014 15:03:52 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/eventsha/public_html/bordeleauwedding/bordeleauwedding/inc/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eventsha/public_html/bordeleauwedding/index.php on line 2
+[30-Nov-2014 11:42:48 America/Chicago] PHP Fatal error:  Call to undefined function connect_to_DB() in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 23
+[30-Nov-2014 11:43:49 America/Chicago] PHP Fatal error:  Call to undefined function connect_to_DB() in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 23
+[30-Nov-2014 11:44:36 America/Chicago] PHP Fatal error:  Call to undefined function connect_to_DB() in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 23
+[30-Nov-2014 11:45:20 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 25
+[30-Nov-2014 11:48:49 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 25
+[30-Nov-2014 11:48:55 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 25
+[30-Nov-2014 11:49:06 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/eventsha/public_html/bordeleauwedding/rsvp-list.php on line 25
+[30-Nov-2014 11:51:14 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/eventsha/public_html/bordeleauwedding/song-list.php on line 35
+[30-Nov-2014 11:51:32 America/Chicago] PHP Fatal error:  Call to undefined function connect_to_DB() in /home/eventsha/public_html/bordeleauwedding/song-list.php on line 5
+[30-Nov-2014 12:50:54 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/eventsha/public_html/bordeleauwedding/song-list.php on line 29
+[30-Nov-2014 12:54:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/eventsha/public_html/bordeleauwedding/song-list.php on line 30
+[30-Nov-2014 13:12:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/eventsha/public_html/bordeleauwedding/song-list.php on line 30
+[30-Nov-2014 13:13:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/eventsha/public_html/bordeleauwedding/song-list.php on line 30
+[04-Dec-2014 18:00:52 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'eventsha_jborde'@'spooner.accountservergroup.com' (using password: YES)' in /home/eventsha/public_html/bordeleauwedding/database.php:3
+Stack trace:
+#0 /home/eventsha/public_html/bordeleauwedding/database.php(3): PDO->__construct('mysql:host=even...', 'eventsha_jborde', 'Jp021123')
+#1 {main}
+  thrown in /home/eventsha/public_html/bordeleauwedding/database.php on line 3

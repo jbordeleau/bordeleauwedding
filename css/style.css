@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'typewriter';
+    src: url('../fonts/typewriter.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	padding-top:70px;
+}
+
+.shaded {
+	background-color: rgba(255,255,255,0.8);
+}
+iframe {
+	border:1px solid black;
+}
+/*************************************** PAGE IDs ***************************************/
+	#aboutus, #party, #rsvp, #photos, #songs, #menu, #location, #accommodations, #registry {
+		background-attachment: fixed;	
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+	#aboutus {
+		background-image:url(../img/bg01.jpg);
+
+	}
+	#party {
+		background-image:url(../img/bg02.jpg);
+	}
+	#rsvp {
+		background-image:url(../img/bg03.jpg);
+	}
+	#photos {
+		background-image:url(../img/bg04.jpg);
+	}
+	#songs {
+		background-image:url(../img/bg05.jpg);
+	}
+	#menu {
+		background-image:url(../img/bg06.jpg);
+	}
+	#location {
+		background-image:url(../img/bg07.jpg);
+	}
+	#accommodations {
+		background-image:url(../img/bg08.jpg);
+	}
+	#registry {
+		background-image:url(../img/bg09.jpg);
+	}
+/*********************************** TYPEWRITER FONT ************************************/
+	.typewriter {
+		font-family: 'typewriter';
+	}
+
+/************************************* FORM STYLES **************************************/
+	form {
+		margin-bottom: 20px;
+	}
+	#accommodationForm {
+		padding-top:20px;
+	}
+	form div.col-md-3:nth-child(2){
+		display: none;
+	}
+
+/************************** REMOVE BACKGROUND IMAGES ON MOBILE **************************/
+	@media (max-width: 768px) {
+	  div.shaded {
+	    background-color: white;
+	  }
+	  body#rsvp, body#aboutus, body#party, body#photos, body#songs, body#menu, body#location, body#accommodations {
+	  	background-image: none;
+	  }
+	}
